@@ -63,6 +63,7 @@ int main() {
             printf("³Í Àý´ë ¸ø ¸ÂÃç¤»¤»\n");
         }
     }
-
+    printf("\n¿£ÅÍ ¤¡¤¡");
+    getchar();
     return 0;
 }
